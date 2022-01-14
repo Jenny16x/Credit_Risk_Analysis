@@ -15,6 +15,10 @@
 - Recall for low risk is 0.62
 - F1 for high risk is 0.02 
 - Precision1 for low risk is 0.77  </li>
+    
+![oversampling](https://github.com/Jenny16x/Credit_Risk_Analysis/blob/main/17Challenge/Resources/Balanced%20Random%20Forest%20Classifier.png)
+
+  
 <li>Using the SMOTE oversampling method, the results shows…
 - Precision for high risk is 0.01 
 - Precision for low risk is 1.00
